@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghana Patil</h1>
 <h3 align="center">Data Science Graduate | Aspiring AI/ML Engineer | Python Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Graduate;AI%2FML+Enthusiast;Python+Developer;Open+to+Opportunities&center=true&width=500&height=50">
-</p>
+
 
 ---
 

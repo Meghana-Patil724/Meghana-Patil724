@@ -256,8 +256,4 @@ To leverage my skills in Data Science, Artificial Intelligence, and Software Dev
 
 ⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
 
-After pasting:
 
-Click Commit changes
-Open your profile: github.com/Meghana-Patil724
-Pin your three project repositories so they appear below the README. This makes the profile look much more professional.

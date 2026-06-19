@@ -56,6 +56,18 @@ A web-based platform that connects students, alumni, and industry professionals.
 An AI-powered learning assistant designed to help students with study planning, resource recommendations, doubt-solving support, and personalized learning experiences.
 
 ---
+💼 Experience
+Data Science Intern | Celebal Technologies
+
+📅 June 2025 – August 2025
+
+Completed an intensive 8-week Data Science internship program.
+Worked on Python, OOP, SQL, and Data Science fundamentals.
+Gained practical experience in feature engineering, regression, clustering, and machine learning.
+Explored Generative AI, LLMs, Prompt Engineering, and LangChain.
+Built an end-to-end RAG-based Question Answering Chatbot using LangChain and Vector Databases.
+
+---
 
 ## 🎯 Areas of Interest
 
